@@ -35,7 +35,7 @@ header p {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  background-image: url(image(\../images/background/background.jpg);)
+  background-image: url(\../images/Background/Background.jpg);
 }
 
 div#container
