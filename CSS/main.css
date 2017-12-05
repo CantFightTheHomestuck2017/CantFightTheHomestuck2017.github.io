@@ -59,8 +59,8 @@ header p {
 }
 
 .jumbotron h3 {
-  margin: 5 0 20px;
   color: #fff;
+  margin: 5 0 20px;
 }
 
 section .row {
@@ -73,23 +73,23 @@ section .row {
 }
 
 .sub-1 {
+  color: #003319;
   font-family: trolltype;
   font-size: 18px;
-  color: #003319;
   font-weight: bold;
 }
 
 .btn.btn-primary {
   border-radius: 2px;
-  border: 0px;
+  border: 0;
   color: #008282;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
-  color: #008282;
   background-color: #C4C4C4;
+  color: #008282;
 }
 
 .btn-secondary {
@@ -113,6 +113,10 @@ footer ul {
 }
 
 footer li img {
-  width: 32px;
   height: 32px;
+  width: 32px;
+}
+
+#content{
+  
 }
