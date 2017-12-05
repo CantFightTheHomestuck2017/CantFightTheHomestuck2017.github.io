@@ -93,7 +93,7 @@ section .row {
 }
 
 .btn-secondary {
-  background-color: #008282;
+  /*background-color: #008282;*/
   color: #ffffff;
   margin: 0 0 30px;
 }
@@ -118,5 +118,5 @@ footer li img {
 }
 
 #content{
-  
+
 }
